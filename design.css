@@ -1,0 +1,35 @@
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  width: 3%;
+  height: 20px;
+  border-width: 6px;
+}
+
+body{
+  background-color: #c9f0ff;
+}
+
+label{
+  font-size: 30px;
+}
+
+.input{
+  font-size: 20px;
+  background-color: white;
+  opacity: 0.6;
+  border-radius: 10px;
+  border-style: none;
+}
+
+input:hover{
+  opacity:0.9;
+}
+
+.submit{
+  font-size:20px;
+  background-color: #009e84;
+}
+.submit:hover{
+  background-color: #00ffef;
+}
